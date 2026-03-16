@@ -1,0 +1,6 @@
+WELFake Dataset
+Source: Kaggle
+Link: https://www.kaggle.com/datasets/saurabhshahane/fake-news-classification
+
+Project note:
+The project uses the WELFake fake news classification dataset.
