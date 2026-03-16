@@ -1,5 +1,16 @@
 # Fake News Detection using Machine Learning
 
+<p>
+  <img src="https://img.shields.io/badge/Language-Python-3776AB?logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Machine%20Learning-Scikit--Learn-F7931E?logo=scikitlearn&logoColor=white"/>
+  <img src="https://img.shields.io/badge/NLP-TF--IDF-blue"/>
+  <img src="https://img.shields.io/badge/Notebook-Jupyter-F37626?logo=jupyter&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Data-Pandas-150458?logo=pandas&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Computation-NumPy-013243?logo=numpy&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Visualization-Matplotlib-11557C"/>
+  <img src="https://img.shields.io/badge/Visualization-Seaborn-4C72B0"/>
+</p>
+
 ## Turning misinformation into a measurable classification problem
 
 This project builds an end-to-end machine learning pipeline to classify news articles as **fake or real** using natural language processing and supervised learning techniques. The goal is to demonstrate how machine learning can be used to combat misinformation at scale.
