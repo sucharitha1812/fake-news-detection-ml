@@ -102,8 +102,9 @@ Among the evaluated models, **SVM delivered the strongest overall performance**,
 - Jupyter Notebook
 
 ## Repository structure
-
+```text
 fake-news-detection-ml/
+│
 ├── README.md
 ├── notebooks/
 │   └── fake_news_detection.ipynb
@@ -113,6 +114,7 @@ fake-news-detection-ml/
 │   └── ML Presentation.pptx
 └── data/
     └── dataset_link.txt
+```
 
 ## Dataset
 - **Source:** WELFake dataset
