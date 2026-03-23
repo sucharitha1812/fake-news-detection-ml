@@ -1,6 +1,6 @@
 import json
 
-notebook_path = "ML Project.ipynb"
+notebook_path = "Fake News Detection Project.ipynb"
 
 with open(notebook_path, "r", encoding="utf-8") as f:
     nb = json.load(f)
